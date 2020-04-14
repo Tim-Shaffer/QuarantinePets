@@ -8,9 +8,9 @@ A virtual pet to play with, love, and take care of in the way of the original *T
 > Justin Acosta, Helen Maschmeyer, Tim Shaffer, & Wayne Wu
 
 ## Contents
-* [Tech Used](https://github.com/mrwu42/project2#tech-used)
-* [To Install Locally](https://github.com/mrwu42/project2#to-install-locally)
-* [Original Design Notes](https://github.com/mrwu42/project2#original-design-notes)
+* [Tech Used](#tech-used)
+* [To Install Locally](#to-install-locally)
+* [Original Design Notes](#original-design-notes)
 
 ## Tech Used
 * JavaScript
